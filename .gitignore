@@ -1,0 +1,5 @@
+# gitignore file for microblog flask app
+# Ignoring the flask app and compiled python files
+
+flask/
+*.pyc
